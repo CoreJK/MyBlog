@@ -18,7 +18,7 @@ timeFormat: "2006-01-02T15:04:05-07:00"
 # Schemes
 #scheme: Muse
 #scheme: Mist
-#scheme: Pisces
+# scheme: Pisces
 scheme: Gemini
 
 # 开启暗模式
@@ -29,7 +29,7 @@ darkmode: false
 # 站点基本信息
 # Site Information Settings
 author: 求余
-subtitle: 嘿！来都来了
+subtitle: 嘿！来都来了,随便看看再走吧~
 description: 不是在折腾，就是在折腾的路上
 keywords: Hugo,NexT,python,后端开发,爬虫
 
@@ -164,7 +164,7 @@ siteState:
 socials: 
   social0: Github || https://github.com/CoreJK || fab fa-github
   #social1: E-Mail || mailto:yourname@gmail.com || fa fa-envelope
-  social2: 知乎 || https://www.zhihu.com/people/lisenhui || fa fa-book
+  social2: 知乎 || https://www.zhihu.com/people/oliverpi || fa fa-book
   #Google: https://plus.google.com/yourname || fab fa-google
   #Twitter: https://twitter.com/yourname || fab fa-twitter
   #FB Page: https://www.facebook.com/yourname || fab fa-facebook

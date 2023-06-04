@@ -1,21 +1,18 @@
 ---
 title: "Centos配置DNS"
-date: 2019-04-28T08:05:51+08:00
 description: "linux网络配置问题"
-draft: false
-hideToc: false
-enableToc: true
-enableTocContent: false
-tocPosition: inner
-tocLevels: ["h2", "h3", "h4"]
+keywords: "DNS,network,linux"
+
+date: 2019-04-28T08:05:51+08:00
+lastmod: 2019-04-28T08:05:51+08:00
+
 tags:
 - "Centos"
 categories:
 - "Linux"
-series:
-- "技术研究"
+
+url: "post/Centos配置DNS.html"
 toc: true
-image: 
 ---
 
 ## 前言
