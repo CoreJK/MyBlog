@@ -14,6 +14,7 @@ categories:
 - "Linux"
 series:
 - "技术研究"
+toc: true
 image: 
 ---
 
