@@ -6,12 +6,12 @@ keywords: "DNS,network,linux"
 date: 2019-04-28T08:05:51+08:00
 lastmod: 2019-04-28T08:05:51+08:00
 
-tags:
-- "Centos"
 categories:
-- "Linux"
+    - "Linux"
+tags:
+    - "Centos"
 
-url: "post/Centos配置DNS.html"
+url: "Centos配置DNS.html"
 toc: true
 ---
 

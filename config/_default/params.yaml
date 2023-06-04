@@ -98,7 +98,7 @@ menuSets:
 sidebar:
   # 侧边栏位置，可选： left | right
   # Sidebar Position: left | right
-  position: left
+  position: right
 
   # 自定义侧边栏的宽度，默认配置如下
   # Muse | Mist: 320
